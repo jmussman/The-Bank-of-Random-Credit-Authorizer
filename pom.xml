@@ -36,7 +36,7 @@
                 <configuration>
                     <encoding>UTF-8</encoding>
                     <reportOutputDirectory>${project.basedir}</reportOutputDirectory>
-                    <destDir>doc</destDir>
+                    <destDir>docs</destDir>
                 </configuration>
                 <executions>
                     <execution>
