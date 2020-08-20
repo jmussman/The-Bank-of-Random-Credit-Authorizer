@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.thebankofrandomcredit.authorizer","c":"BRCAuthorizer","l":"BRCAuthorizer()","url":"%3Cinit%3E()"},{"p":"com.thebankofrandomcredit.authorizer","c":"BRCAuthorizer","l":"purchase(String, BigDecimal)","url":"purchase(java.lang.String,java.math.BigDecimal)"}]
