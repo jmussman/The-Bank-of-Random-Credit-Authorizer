@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.thebankofrandomcredit.authorizer","l":"BRCAuthorizer"}]
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.thebankofrandomcredit.cardservices","l":"BankOfRandomCreditAuthorizer"}]
